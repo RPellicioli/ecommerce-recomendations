@@ -63,7 +63,7 @@ ecommerce-recommendations/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/RPellicioli/ecommerce-recommendations.git
+git clone https://github.com/RPellicioli/ecommerce-recomendations.git
 cd ecommerce-recommendations
 ```
 
